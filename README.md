@@ -45,7 +45,7 @@ IT Analyst with a background in IT operations and engineering. Currently expandi
 
 ---
 
-### 🚦 Urban Mobility & Economic Analysis (Study Case)
+### 🚦 Urban Mobility & Economic Analysis
 **Python · Data Cleaning · Visualization · Strategic Insights**
 
 Analyzed traffic congestion and GDP per capita across LATAM cities to identify productivity impact patterns.
@@ -54,7 +54,7 @@ Analyzed traffic congestion and GDP per capita across LATAM cities to identify p
 
 ---
 
-### 🛒 E-commerce Funnel & Retention Analysis (Study Case)
+### 🛒 E-commerce Funnel & Retention Analysis (SQL Case Study)
 **SQL · Funnel Metrics · Cohort Analysis · Conversion Optimization**
 
 Built full conversion funnel and retention cohorts to detect bottlenecks and simulate performance improvements.
