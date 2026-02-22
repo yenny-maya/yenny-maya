@@ -44,10 +44,22 @@ I specialize in SQL, Python, and data-driven decision-making.
 
 ## 📂 Featured Projects
 
-### 🚦 Urban Mobility & Economic Analysis
-Traffic congestion vs GDP in LATAM cities.
-→ [View Project](./urban-mobility-economic-analysis)
+---
 
-### 🛒 E-commerce Funnel & Retention Analysis
-Conversion optimization & cohort retention (SQL case study).
-→ [View Project](./ecommerce-funnel-retention-analysis)
+### 🚦 Urban Mobility & Economic Analysis  
+**Python · Data Cleaning · Visualization · Strategic Insights**
+
+Analyzed traffic congestion and GDP per capita across LATAM cities to identify productivity impact patterns.
+
+[🔍 View Project](https://github.com/yenny-maya/data-analytics-portfolio/tree/main/urban-mobility-economic-analysis)
+
+---
+
+### 🛒 E-commerce Funnel & Retention Analysis  
+**SQL · Funnel Metrics · Cohort Analysis · Conversion Optimization**
+
+Built full conversion funnel and retention cohorts to detect bottlenecks and simulate performance improvements.
+
+[🔍 View Project](https://github.com/yenny-maya/data-analytics-portfolio/tree/main/ecommerce-funnel-retention-analysis)
+
+---
