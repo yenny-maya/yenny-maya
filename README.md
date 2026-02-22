@@ -1,13 +1,17 @@
 ## Hi, I'm Yenny Maya 👋
 
 <img width="1584" height="396" alt="Data Analyst  SQL • Python • Data Visualization" src="https://github.com/user-attachments/assets/3e3730ba-5d7d-4871-90f1-8661993a94cb" />
+
 <p align="center">
-  <a href="https://github.com/yenny-maya/data-analytics-portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Projects-blue?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/yenny-maya">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+
+<a href="https://github.com/yenny-maya/data-analytics-portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-View%20Projects-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/yenny-maya-195b1a46/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </p>
 
 IT Data Analyst with a background in IT operations and engineering.
