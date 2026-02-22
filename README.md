@@ -46,7 +46,7 @@ I specialize in SQL, Python, and data-driven decision-making.
 
 ---
 
-### 🚦 Urban Mobility & Economic Analysis  
+### 🚦 Urban Mobility & Economic Analysis (Study Case)
 **Python · Data Cleaning · Visualization · Strategic Insights**
 
 Analyzed traffic congestion and GDP per capita across LATAM cities to identify productivity impact patterns.
@@ -55,7 +55,7 @@ Analyzed traffic congestion and GDP per capita across LATAM cities to identify p
 
 ---
 
-### 🛒 E-commerce Funnel & Retention Analysis  
+### 🛒 E-commerce Funnel & Retention Analysis (Study Case)
 **SQL · Funnel Metrics · Cohort Analysis · Conversion Optimization**
 
 Built full conversion funnel and retention cohorts to detect bottlenecks and simulate performance improvements.
