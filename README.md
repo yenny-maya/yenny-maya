@@ -1,5 +1,8 @@
 ## Hi, I'm Yenny Maya 👋
 
+<img width="1584" height="396" alt="Data Analyst  SQL • Python • Data Visualization" src="https://github.com/user-attachments/assets/3e3730ba-5d7d-4871-90f1-8661993a94cb" />
+
+
 IT Data Analyst with a background in IT operations and engineering.
 I specialize in SQL, Python, and data-driven decision-making.
 
