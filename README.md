@@ -5,11 +5,11 @@
 <p align="center">
 
 <a href="https://github.com/yenny-maya/data-analytics-portfolio">
-  <img src="https://img.shields.io/badge/View%20Projects-GitHub-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Portfolio-View%20Projects-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/yenny-maya-195b1a46/">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </p>
