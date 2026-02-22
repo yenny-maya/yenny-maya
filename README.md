@@ -18,20 +18,20 @@ I specialize in SQL, Python, and data-driven decision-making.
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35"/> 
-  <strong> SQL</strong> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" alt="SQL"/>
+  <b> SQL</b> &nbsp;&nbsp;&nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/> 
-  <strong> Python</strong> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" alt="Python"/>
+  <b> Python</b> &nbsp;&nbsp;&nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35"/> 
-  <strong> Pandas</strong>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32" alt="Pandas"/>
+  <b> Pandas</b>
 </p>
 
 
 ## 🔎 About Me
 
-- 📊 Passionate about data analytics and business insights
+- 📊 Transforming data into actionable business insights
 - 💻 Experience in IT portfolio monitoring & operational analytics
 - 📍 Based in Australia
 - 🌎 Interested in Data Analytics & Business Intelligence
