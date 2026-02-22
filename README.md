@@ -44,7 +44,7 @@ IT Analyst with a background in IT operations and engineering. Currently expandi
 ### 🚦 Urban Mobility & Economic Analysis
 **Python · Data Cleaning · Visualization · Strategic Insights**
 
-Analyzed traffic congestion and GDP per capita across LATAM cities to identify productivity impact patterns.
+Evaluated the relationship between traffic congestion and GDP per capita across LATAM cities to identify infrastructure investment priorities.
 
 [🔍 View Project](https://github.com/yenny-maya/data-analytics-portfolio/tree/main/urban-mobility-economic-analysis)
 
