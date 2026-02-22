@@ -8,10 +8,6 @@
   <img src="https://img.shields.io/badge/View%20Projects-GitHub-black?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/yenny-maya-195b1a46/">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
 </p>
 
 IT Analyst with a background in IT operations and engineering. Currently expanding my expertise in SQL-based analysis, Python and data analytics.
