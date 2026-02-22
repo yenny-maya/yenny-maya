@@ -15,21 +15,19 @@ I specialize in SQL, Python, and data-driven decision-making.
 
 ---
 
+## Tech Stack
+
+![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge&logo=postgresql)
+![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue?style=for-the-badge)
+
 ## 🔎 About Me
 
 - 📊 Passionate about data analytics and business insights
 - 💻 Experience in IT portfolio monitoring & operational analytics
 - 📍 Based in Australia
 - 🌎 Interested in Data Analytics & Business Intelligence
-
----
-
-## 🛠 Tech Stack
-
-**Languages & Tools:**
-- SQL
-- Python (Pandas, Matplotlib, Seaborn)
-- Excel
 
 ---
 
@@ -42,9 +40,3 @@ Traffic congestion vs GDP in LATAM cities.
 ### 🛒 E-commerce Funnel & Retention Analysis
 Conversion optimization & cohort retention (SQL case study).
 → [View Project](./ecommerce-funnel-retention-analysis)
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/yenny-maya
