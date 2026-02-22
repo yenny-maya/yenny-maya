@@ -14,8 +14,7 @@
 
 </p>
 
-IT Data Analyst with a background in IT operations and engineering.
-I specialize in SQL, Python, and data-driven decision-making.
+IT Analyst with a background in IT operations and engineering. Currently expanding my expertise in SQL-based analysis, Python and data analytics.
 
 ---
 
