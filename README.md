@@ -1,6 +1,7 @@
 ## Hi, I'm Yenny Maya 👋
 
-<img width="1584" height="396" alt="Data Analyst  SQL • Python • Data Visualization" src="https://github.com/user-attachments/assets/3e3730ba-5d7d-4871-90f1-8661993a94cb" />
+<img width="1400" height="400" alt="Copy of Blue Purple Modern Abstract Tech Background Data Analyst LinkedIn Banner" src="https://github.com/user-attachments/assets/0909fa00-c328-419a-8fb6-7f7c5e78f6a4" />
+
 
 <p align="center">
 
